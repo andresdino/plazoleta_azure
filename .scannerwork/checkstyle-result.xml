@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.0">
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\Ordenes\OrdenPlatoResponse.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\documentation\OpenApiConfiguration.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\response\OrdenPlatoResponseDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\OwnerMustOnlyOwnARestaurantException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\response\IRestaurantPaginationResponseMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\mapper\IObjectEntityMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\usecase\PlatoUseCase.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\response\ICategoriaResponseMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\adapter\ObjectJpaAdapter.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\mapper\ICategoriaEntityMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\UserNotExistException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\IRestaurantEmployeeHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\entity\OrdenPlatoEntity.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\request\OrdenDishRequestDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\response\RestaurantEmployeeResponseDto.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\ClientHasAnOrderException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\adapter\OrderAdapter.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\PlatoIsInactiveException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\test\java\com\pragma\powerup\domain\usecase\CategoriaUseCaseTest.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\PlatoRestaurantIdNotIsEqualsOrderException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\test\java\com\pragma\powerup\domain\usecase\RestaurantUseCaseTest.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\entity\ObjectEntity.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\DomainException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\input\rest\RestaurantRestController.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\spi\persistence\IRestaurantEmployeePersistencePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\usecase\ObjectUseCase.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\mapper\IPlatoEntityMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\Ordenes\OrdenRequest.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\response\IOrderResponseMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\Restaurant.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\adapter\CategoriaAdapter.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\mapper\IRestaurantEmployeeEntityMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\request\IRestaurantRequestMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\RestaurantEmployee.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\adapter\RestaurantEmployeeJpaAdapter.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\request\PlatoRequestPutDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\request\IRestaurantEmployeeRequestMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\Categoria.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\Ordenes\OrdenResponse.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\configuration\BeanConfiguration.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\OrderNotExistException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\mapper\IRestaurantEntityMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\OwnerAuthMustBeOwnerRestaurantException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\IRestaurantHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\repository\IOrdenPlatoRepository.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\request\IOrderRequestMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\RestaurantEmployeeNotExistException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\spi\persistence\IRestaurantPersistencePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\OrderRestaurantMustBeEqualsEmployeeRestaurantException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\input\rest\CategoriaRestController.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\input\rest\ObjectRestController.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\request\ICategoriaRequestMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\request\IPlatoRequestMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\OwnerNotAuthenticatedException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\exception\NoDataFoundException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\test\java\com\pragma\powerup\MainTests.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\request\CategoriaRequestDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\usecase\RestaurantUseCase.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\response\IRestaurantResponseMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\repository\IPlatoRepository.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\impl\RestaurantHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\input\rest\RestaurantEmployeeRestController.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\response\CategoriaResponseDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\IObjectResponseMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\RestaurantNotExistException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\adapter\PlatoAdapter.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\impl\OrdenHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\IObjectRequestMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\Ordenes\OrdenPlatoRequest.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\test\java\com\pragma\powerup\domain\usecase\ObjectUseCaseTest.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\request\RestaurantEmployeeRequestDto.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\exception\UserMustBeOwnerException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\mapper\IOrdenEntityMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\impl\ObjectHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\spi\persistence\IOrdenPersistencePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\entity\PlatoEntity.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\repository\IOrdenRepository.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\impl\RestaurantEmployeeHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\impl\CategoriaHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\entity\CategoriaEntity.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\request\RestaurantRequestDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\spi\persistence\ICategoriaPersistencePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\response\IRestaurantEmployeeResponseMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\api\IOrdenServicePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\request\OrdenRequestDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\test\java\com\pragma\powerup\domain\usecase\PlatoUseCaseTest.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\input\rest\PlatoRestController.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\entity\RestaurantEmployeeEntity.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\response\RestaurantPaginationResponseDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\api\IObjectServicePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\adapter\RestaurantAdapter.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\repository\IObjectRepository.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\usecase\RestaurantEmployeeUseCase.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\repository\ICategoriaRepository.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\repository\IRestaurantRepository.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\entity\OrdenEntity.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\Orden.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\OrdenPlato.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\request\ObjectRequestDto.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\api\IRestaurantServicePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\mapper\IOrdenPlatoEntityMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\response\ObjectResponseDto.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\response\PlatoResponseDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\api\ICategoriaServicePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\request\PlatoRequestDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\impl\PlatoHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\api\IRestaurantEmployeeServicePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\entity\RestaurantEntity.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\ICategoriaHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\Main.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\response\OrdenResponseDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\usecase\CategoriaUseCase.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\input\rest\OrdenRestController.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\dto\response\RestaurantResponseDTO.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\usecase\OrdenUseCase.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\ObjectModel.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\model\Plato.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\IObjectHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\IPlatoHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\spi\IObjectPersistencePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\exceptionhandler\ExceptionResponse.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\mapper\response\IPlatoResponseMapper.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\out\jpa\repository\IRestaurantEmployeeRepository.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\application\handler\IOrdenHandler.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\infrastructure\exception\PlatoNoExisteException.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\spi\persistence\IPlatoPersistencePort.java">
+</file>
+<file name="D:\Documentos\ANDRESDINO\PRAGMA\retoaws\plazoleta-solo\src\main\java\com\pragma\powerup\domain\api\IPlatoServicePort.java">
+</file>
+</checkstyle>

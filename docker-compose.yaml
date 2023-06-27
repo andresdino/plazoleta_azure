@@ -1,0 +1,16 @@
+version: '2'
+
+services:
+  app:
+    image: 'plazoleta-service:latest'
+    build:
+      context: .
+    container_name: back
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:mysql://localhost:3306/powerup
+      - SPRING_DATASOURCE_USERNAME=root
+      - SPRING_DATASOURCE_PASSWORD=
+      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+      - SPRING_JPA_SHOW_SQL=true
+    ports:
+      - "5000:5000"

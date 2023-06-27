@@ -1,0 +1,14 @@
+server:
+  port: 5000
+
+spring:
+  datasource:
+    url: jdbc:mysql://${AWS_DATA_URL}/powerup
+    username: ${AWS_USER_DB}
+    password: ${AWS_PSW_DB}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+appDescription: "Reto Pragma"
+appVersion: "1.0.0"
