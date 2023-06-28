@@ -23,12 +23,7 @@ jobs:
           distribution: temurin
 
       - name: Build with Gradle
-        run: ./gradlew build --build-cache
-
-      - name: Build with Gradle
-        uses: gradle/gradle-build-action@67421db6bd0bf253fb4bd25b31ebb98943c375e1
-        with:
-          arguments: build
+        uses: gradle/gradle-build-action@v2.4.2
 
       - name: Run tests
         run: ./gradlew test
