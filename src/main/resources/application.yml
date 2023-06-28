@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://${AWS_DATA_URL}/powerup
-    username: ${AWS_USER_DB}
-    password: ${AWS_PSW_DB}
+    url: jdbc:mysql://dbpragma.c1zec6yu0aq8.us-east-2.rds.amazonaws.com:3306/powerup
+    username: admin
+    password: "ju4ns3b4st14n"
   jpa:
     hibernate:
       ddl-auto: update
